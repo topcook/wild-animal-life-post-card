@@ -83,7 +83,7 @@ const Article = (props) => {
   return (
     <Col xs={12} sm={6} md={4}>
       <div className='post-wrapper'>
-        <a href='https://wild-animal-life-post.vercel.app/' target={'_blank'}>
+        <a href='https://wild-animal-life-post.netlify.app/' target={'_blank'}>
           <img src={picture1} />
         </a>
         <div className='description' style={{ textAlign: 'center' }}>
